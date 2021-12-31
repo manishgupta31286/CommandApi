@@ -52,7 +52,7 @@ namespace CommandApi.Data
 
         public void UpdateCommand(Command cmd)
         {
-            throw new NotImplementedException();
+            //No need to implement
         }
     }
 }
